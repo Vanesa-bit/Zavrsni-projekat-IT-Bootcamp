@@ -105,7 +105,7 @@ public class RegistrationTest {
 				
 
 				String actual = driver.getCurrentUrl();
-				String expected = "http://webdriveruniversity.com/Contact-Us/contact-form-thank-you.html";
+				String expected = "https://letocompany1.humanity.com/app/schedule/employee/week/overview/overview/26%2c1%2c2021/";
 				
 				
 				sa.assertEquals(actual, expected);
@@ -166,7 +166,7 @@ public class RegistrationTest {
 				
 
 				String actual = driver.getCurrentUrl();
-				String expected = "http://webdriveruniversity.com/Contact-Us/contact-form-thank-you.html";
+				String expected = "https://letocompany1.humanity.com/app/schedule/employee/week/overview/overview/26%2c1%2c2021/";
 				
 				
 				sa.assertEquals(actual, expected);
